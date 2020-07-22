@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portifolio/static/css/main.c8d60a7a.chunk.css",
+    "main.js": "/Portifolio/static/js/main.b51c1584.chunk.js",
+    "main.js.map": "/Portifolio/static/js/main.b51c1584.chunk.js.map",
+    "runtime~main.js": "/Portifolio/static/js/runtime~main.ecc9c45b.js",
+    "runtime~main.js.map": "/Portifolio/static/js/runtime~main.ecc9c45b.js.map",
+    "static/js/2.c58f0edb.chunk.js": "/Portifolio/static/js/2.c58f0edb.chunk.js",
+    "static/js/2.c58f0edb.chunk.js.map": "/Portifolio/static/js/2.c58f0edb.chunk.js.map",
+    "index.html": "/Portifolio/index.html",
+    "precache-manifest.ec0076c8d3c1552e79721d19a3641181.js": "/Portifolio/precache-manifest.ec0076c8d3c1552e79721d19a3641181.js",
+    "service-worker.js": "/Portifolio/service-worker.js",
+    "static/css/main.c8d60a7a.chunk.css.map": "/Portifolio/static/css/main.c8d60a7a.chunk.css.map",
+    "static/media/Entypo.ttf": "/Portifolio/static/media/Entypo.744ce600.ttf",
+    "static/media/EvilIcons.ttf": "/Portifolio/static/media/EvilIcons.140c53a7.ttf",
+    "static/media/Feather.ttf": "/Portifolio/static/media/Feather.ca9ce9ff.ttf",
+    "static/media/FontAwesome.ttf": "/Portifolio/static/media/FontAwesome.b06871f2.ttf",
+    "static/media/Ionicons.ttf": "/Portifolio/static/media/Ionicons.b2e0fc82.ttf",
+    "static/media/MaterialCommunityIcons.ttf": "/Portifolio/static/media/MaterialCommunityIcons.6acc7d6c.ttf",
+    "static/media/MaterialIcons.ttf": "/Portifolio/static/media/MaterialIcons.a37b0c01.ttf",
+    "static/media/Octicons.ttf": "/Portifolio/static/media/Octicons.8e7f807e.ttf",
+    "static/media/SimpleLineIcons.ttf": "/Portifolio/static/media/SimpleLineIcons.d2285965.ttf",
+    "static/media/style.css": "/Portifolio/static/media/roboto-regular.11eabca2.ttf"
+  }
+}
